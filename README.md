@@ -1,7 +1,7 @@
 # Persecution of New Ideas #
 
-This project reproduces the vintage advertisement _[Persecution of New
-Ideas](http://www.davidrumsey.com/luna/servlet/s/8s969o)_ by ["Dr."
+This project reproduces the vintage advertisement ["Persecution of New
+Ideas"](http://www.davidrumsey.com/luna/servlet/s/8s969o) by ["Dr."
 C. L. Blood](https://en.wikipedia.org/wiki/C._L._Blood), as it
 appeared in _[Asher & Adams' New Columbian Rail Road Atlas and
 Pictorial Album of American Industry](http://www.davidrumsey.com/luna/servlet/s/zgl5hq)_ (1875).
